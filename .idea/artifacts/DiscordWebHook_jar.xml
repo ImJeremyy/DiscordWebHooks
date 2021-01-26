@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DiscordWebHook:jar">
+    <output-path>$PROJECT_DIR$/../1.16.5 Spigot Server/plugins</output-path>
+    <root id="archive" name="DiscordWebHook.jar">
+      <element id="module-output" name="DiscordWebHook" />
+    </root>
+  </artifact>
+</component>

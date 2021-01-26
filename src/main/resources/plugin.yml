@@ -1,0 +1,15 @@
+name: DiscordWebHook
+version: 1.0.0
+main: com.markiscool.DiscordWebHookPlugin
+author: MarkIsCool
+description: Gets DiscordId and saves it to ids.yml.
+commands:
+  discordid:
+    usage: /<command> <discord_id>
+    description: Eg /<command> Jeremy#1000
+  webhook:
+    usage: /<command> <username/uuid>
+    description: Eg /webhook ItzzGamma
+  setwebhook:
+    usage: /<command> <url>
+    description: Set the WebHook URL (saved in settings.yml)
